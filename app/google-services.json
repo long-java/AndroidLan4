@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "443203032884",
+    "firebase_url": "https://passio-ecf7c-default-rtdb.firebaseio.com",
+    "project_id": "passio-ecf7c",
+    "storage_bucket": "passio-ecf7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443203032884:android:82b58445726445ed5d3761",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443203032884-1e9oa9h4b68tm18m31eprh8lvpghomed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregister",
+            "certificate_hash": "45256a02fd3aed8095cfb38048e00146fb9fcb84"
+          }
+        },
+        {
+          "client_id": "443203032884-dbsh3jgtoes6962md6mv5v6p8lc1op44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxsAY1wVkCDWDTNUWG6s8aq9mngFXRpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443203032884-dbsh3jgtoes6962md6mv5v6p8lc1op44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443203032884:android:ea2626a8d071bb575d3761",
+        "android_client_info": {
+          "package_name": "com.example.loginregistertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443203032884-9vhnfkj9veds99k9vnbrfhm61v2ms7f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregistertest",
+            "certificate_hash": "45256a02fd3aed8095cfb38048e00146fb9fcb84"
+          }
+        },
+        {
+          "client_id": "443203032884-dbsh3jgtoes6962md6mv5v6p8lc1op44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxsAY1wVkCDWDTNUWG6s8aq9mngFXRpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443203032884-dbsh3jgtoes6962md6mv5v6p8lc1op44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443203032884:android:29395e47f1c8c7c75d3761",
+        "android_client_info": {
+          "package_name": "com.example.passio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443203032884-81v1k3383v9fl4p9icp34d81nul6a1q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.passio",
+            "certificate_hash": "45256a02fd3aed8095cfb38048e00146fb9fcb84"
+          }
+        },
+        {
+          "client_id": "443203032884-dbsh3jgtoes6962md6mv5v6p8lc1op44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxsAY1wVkCDWDTNUWG6s8aq9mngFXRpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443203032884-dbsh3jgtoes6962md6mv5v6p8lc1op44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443203032884:android:60b8bf63317cc0c55d3761",
+        "android_client_info": {
+          "package_name": "com.example.thecoffeehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443203032884-hncfcc7acc7ttffhdb6ir5ks9ssgcbfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thecoffeehouse",
+            "certificate_hash": "45256a02fd3aed8095cfb38048e00146fb9fcb84"
+          }
+        },
+        {
+          "client_id": "443203032884-dbsh3jgtoes6962md6mv5v6p8lc1op44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxsAY1wVkCDWDTNUWG6s8aq9mngFXRpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443203032884-dbsh3jgtoes6962md6mv5v6p8lc1op44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
